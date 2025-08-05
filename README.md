@@ -1,12 +1,16 @@
 
-[Ver desde el minuto 1:23](https://www.youtube.com/watch?v=eNahWfjj9Js&t=83s)
 
-
+## ╔════════════════════════════╗
+##       AXION -CIBER-IT-DEV
+## ╚════════════════════════════╝
 
 
 <p align="center">
-  <img src="./assets/github.png" alt="Logo de MOENA SPA" width="150"/>
+  <img src="./assets/starcraft.gif" alt="GIF StarCraft" width="700"/>
 </p>
+
+
+
 
 
 
@@ -21,6 +25,9 @@
 - 🧰 Automatización con Python
 
 ## 🛠️ Tecnologías y herramientas
+<p align="center">
+  <img src="./assets/github.png" alt="Logo de MOENA SPA" width="150"/>
+</p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
