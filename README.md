@@ -5,7 +5,7 @@
 ## ╚═════════════════════════════════╝
 
 <p align="center">
-  <img src="./assets/starcraft.gif" alt="GIF StarCraft" width="300"/>
+  <img src="./assets/starcraft.gif" alt="GIF StarCraft" width="700"/>
 </p>
 
 
