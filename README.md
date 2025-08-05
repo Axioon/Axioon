@@ -1,12 +1,11 @@
 
 
-## ╔════════════════════════════╗
-##       AXION 
-## ╚════════════════════════════╝
-<h3 align="center">👨‍💻 Fullstack Dev | 🧠 Threat Intelligence | 🛠️ Automatización | 🕸️ Seguridad de Red</h3>
+## ╔═════════════════════════════════╗
+##           ⚡ AXION – CYBER · IT · DEV ⚡
+## ╚═════════════════════════════════╝
 
 <p align="center">
-  <img src="./assets/starcraft.gif" alt="GIF StarCraft" width="600"/>
+  <img src="./assets/starcraft.gif" alt="GIF StarCraft" width="300"/>
 </p>
 
 
