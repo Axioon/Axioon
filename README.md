@@ -1,3 +1,7 @@
+
+![Logo de MOENA SPA](./assets/github.png)
+
+
 💻 Apasionado por la **ciberseguridad**, la **automatización** y el **desarrollo de software**  
 🛠️ Programador autodidacta en tecnologías modernas como JavaScript, React, Python y más  
 📚 En constante formación en arquitectura TI, seguridad informática y operaciones defensivas
