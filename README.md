@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="./assets/github.png" alt="Logo de MOENA SPA" width="150"/>
+</p>
 
-![Logo de MOENA SPA](./assets/github.png)
 
 
 💻 Apasionado por la **ciberseguridad**, la **automatización** y el **desarrollo de software**  
