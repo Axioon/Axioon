@@ -1,12 +1,12 @@
 
 
 ## ╔════════════════════════════╗
-##       AXION -CIBER-IT-DEV
+##       AXION 
 ## ╚════════════════════════════╝
-
+<h3 align="center">👨‍💻 Fullstack Dev | 🧠 Threat Intelligence | 🛠️ Automatización | 🕸️ Seguridad de Red</h3>
 
 <p align="center">
-  <img src="./assets/starcraft.gif" alt="GIF StarCraft" width="700"/>
+  <img src="./assets/starcraft.gif" alt="GIF StarCraft" width="600"/>
 </p>
 
 
@@ -20,7 +20,7 @@
 
 ## 🧠 Áreas de interés
 
-- ⚙️ Seguridad de la Información (EDR, DLP, Zero Trust, MITRE ATT&CK)
+- ⚙️ Seguridad de la Información 
 - ☁️ Cloud Computing: AWS 
 - 🧰 Automatización con Python
 
