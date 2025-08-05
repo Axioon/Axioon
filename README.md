@@ -7,8 +7,6 @@
 - ⚙️ Seguridad de la Información (EDR, DLP, Zero Trust, MITRE ATT&CK)
 - ☁️ Cloud Computing: AWS 
 - 🧰 Automatización con Python
-- 🔐 Análisis de vulnerabilidades, gestión de endpoints y cifrado de redes
-- 📊 Diseño de arquitecturas TI seguras y eficientes
 
 ## 🛠️ Tecnologías y herramientas
 
