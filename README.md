@@ -1,7 +1,7 @@
 
 
 ## ╔═════════════════════════════════╗
-##           ⚡ AXION – CYBER · IT · DEV ⚡
+##           ⚡ AXION  ⚡
 ## ╚═════════════════════════════════╝
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 
 
-💻 Apasionado por la **ciberseguridad**, la **automatización** y el **desarrollo de software**  
+💻 **ciberseguridad**, **automatización** y  **desarrollo de software**  
 🛠️ Programador autodidacta en tecnologías modernas como JavaScript, React, Python y más  
 📚 En constante formación en arquitectura TI, seguridad informática y operaciones defensivas
 
